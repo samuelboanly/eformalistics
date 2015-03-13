@@ -1,3 +1,4 @@
+
 var $ = jQuery.noConflict();
 $(function(){
     $('.form').find('input, select, textarea').on('touchstart mousedown click', function(e){
